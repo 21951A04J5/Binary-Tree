@@ -73,7 +73,7 @@ root.rc.lc.rc=node(9)
 bottomview(root)
 
 '''
-#Left View
+#Left View #Right View
 
 class node:
     def __init__(self,data):
